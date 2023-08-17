@@ -2,7 +2,8 @@
 
 **🛡️ Exploring the World of Cyber Security 🚀**
 
-👋 Hey there! I'm Gabriel, a dedicated cyber security enthusiast with a focus on Penetration Testing and Red Teaming. I am currently in the process of obtaining my OSCP certification while actively advancing my knowledge in the fields of malware analysis and development. 
+👋 Hey there! I'm Gabriel, a dedicated cyber security enthusiast with a focus on Penetration Testing and Red Teaming. 
+   I am currently in the process of obtaining my OSCP certification while actively advancing my knowledge in the fields of malware analysis and development. 
 
 ## 🌐 Online Presence
 
