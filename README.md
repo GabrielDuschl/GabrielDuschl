@@ -1,4 +1,4 @@
-# 👨‍💻 Gabriel Duschl - Penetration Testing & Red Teaming 👾
+# 👨‍💻 Gabriel Duschl - Penetration Testing & Red Teaming
 
 **🛡️ Exploring the World of Cyber Security 🚀**
 
