@@ -22,7 +22,7 @@
 
 ## 💬 Contact
 
-Let's connect! Feel free to connect with me on LinkedIn!
+Feel free to connect with me on LinkedIn!
 
 ---
 
