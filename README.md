@@ -1,9 +1,10 @@
-### gabriel@root:~$ whoami
+# Gabriel Duschl
 
-```yaml
-Name:    Gabriel Duschl
-Role:    Penetration Tester & Red Teamer
-Focus:   [Offensive Security, Infrastructure, Automation]
-Based:   Bavaria, Germany
-Contact: [https://www.linkedin.com/in/gabriel-duschl/](https://www.linkedin.com/in/gabriel-duschl/)
-<a href="https://tryhackme.com/p/cmiyc"> <img src="https://tryhackme-badges.s3.amazonaws.com/cmiyc.png" alt="TryHackMe Badge"> </a>
+**Security Consultant & Full Stack Engineer**
+
+Fokus auf Offensive Security, Red Teaming und Automatisierung.
+Based in Bavaria, Germany.
+
+- 🌐 **Website:** [duschl-solutions.com](https://www.duschl-solutions.com)
+- 💼 **LinkedIn:** [Gabriel Duschl](https://www.linkedin.com/in/gabriel-duschl/)
+- 🚩 **TryHackMe:** [CMIYC](https://tryhackme.com/p/cmiyc)
