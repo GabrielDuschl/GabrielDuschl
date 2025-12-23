@@ -1,28 +1,9 @@
-# 👨‍💻 Gabriel Duschl - Penetration Testing & Red Teaming
+### gabriel@root:~$ whoami
 
-**🛡️ Exploring the World of Cyber Security 🚀**
-
-👋 Hey there! I'm Gabriel, a dedicated cyber security enthusiast with a focus on Penetration Testing and Red Teaming.  
-   
-## 🌐 Online Presence
-
-- 💼 LinkedIn: https://www.linkedin.com/in/gabriel-duschl/
-- 🐦 Tryhackme: https://tryhackme.com/p/cmiyc
-- 🌟 Website: https://gabrielduschl.com/
-
-## 🚀 My Journey
-
-- 📚 Currently learning about: Advanced Penetration Techniques, Red Team Operations
-- 🌟 Excited about: Applying Cyber Security Concepts to Real-world Scenarios
-
-## 🏆 TryHackMe Profile
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/cmiyc.png" alt="TryHackMe">
-
-## 💬 Contact
-
-Feel free to connect with me on LinkedIn!
-
----
-
-
+```yaml
+Name:    Gabriel Duschl
+Role:    Penetration Tester & Red Teamer
+Focus:   [Offensive Security, Infrastructure, Automation]
+Based:   Bavaria, Germany
+Contact: [https://www.linkedin.com/in/gabriel-duschl/](https://www.linkedin.com/in/gabriel-duschl/)
+<a href="https://tryhackme.com/p/cmiyc"> <img src="https://tryhackme-badges.s3.amazonaws.com/cmiyc.png" alt="TryHackMe Badge"> </a>
